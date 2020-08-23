@@ -7,16 +7,14 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Sergey Korol
-  tagline: Technical QA Manager
+  name: NGUYEN THI BICH THUY
+  tagline: Senior QC
   avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: serhii.s.korol@gmail.com
-  linkedin: serhiikorol
-  github: sskorol
-  twitter: '@ss_korol'
-  stack-overflow: 8461668/sergey-korol
+  email: ntbichthuy07@gmail.com
+  linkedin: ntbichthuy07
+  github: ntbichthuy07
 
   languages:
     - language:

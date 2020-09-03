@@ -18,49 +18,22 @@ sidebar:
 
   languages:
     - language:
-      idiom: Ukrainian
-      level: Native
-    - language:
-      idiom: Russian
-      level: Native
-    - language:
       idiom: English
-      level: Advanced
+      level: Intermediate
 
   interests:
     - interest:
-      item: Sport
-      link: http://gagarina.gym4fit.com
-    - interest:
-      item: Travelling
-      link: https://www.instagram.com/s_korol
-    - interest:
       item: Testing / Programming
-      link: https://github.com/sskorol
-    - interest:
-      item: IoT
-      link: https://www.youtube.com/playlist?list=PLwP4JKXOLdPN89B1oyJqpxHoH4sAl6F8W
-    - interest:
-      item: Consulting / Mentoring
-      link: http://sdclabs.com
-    - interest:
-      item: Public Speaking
-      link: https://www.youtube.com/playlist?list=PLwP4JKXOLdPNS21LULLMRujEtU_9GrX16
+      link: https://github.com/ntbichthuy07
 
 career-profile:
   title: Career Profile
   summary:
     '<div><ul>
-            <li>About 11 years experience in Software Testing.</li>
-            <li>About 9 years experience in Test Automation.</li>
+            <li>About 3 years experience in Manual Software Testing.</li>
             <li>Strong knowledge: Java/TS, Selenium WebDriver/Grid, Selenoid, Appium, SikuliX, WebdriverIO, TestNG/Mocha, Allure, RestAssured, Jenkins, Git, Docker, REST, SQL, Google Cloud.</li>
             <li>Experience in creating test automation frameworks / raising up automation infrastructure from scratch.</li>
             <li>Certifications: <a href="https://www.coursera.org/account/accomplishments/professional-cert/J35RUADXFBFQ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharebutton_course&utm_product=prof"><b>Cloud Engineering with Google Cloud</b></a>, ISTQB.</li>
-            <li>Open source contributions: <a href="https://github.com/atinfo/at.info-knowledge-base"><b>AT-INFO</b></a>, <a href="https://github.com/allure-framework"><b>Allure</b></a>, <a href="https://github.com/cbeust/testng"><b>TestNG</b></a>, <a href="https://github.com/webdriverio/webdriverio"><b>WebdriverIO</b></a>, <a href="https://github.com/allure-framework/allure-js"><b>Allure-JS</b></a>, <a href="https://github.com/alphacep/vosk-server"><b>VOSK</b></a></li>
-            <li>Moderating and posting at <a href="https://automated-testing.info/u?period=all"><b>AT-INFO</b></a></li>
-            <li>Software Development <a href="http://sdclabs.com"><b>consulting service</b></a></li>
-            <li><a href="https://www.youtube.com/playlist?list=PLwP4JKXOLdPNS21LULLMRujEtU_9GrX16"><b>QAFest and SeleniumCamp</b></a> speaker</li>
-          </ul></div>
 
           <div>I started career as a Manual Test Engineer. Have passed a long way from Junior up to Test Lead position. Have 6+ years experience in a management of test teams up to 5 members for projects of different complexity. Since 2012 till 2018 have been fully concentrated on Software Test Automation (mostly web direction). Developed several Selenium-driven frameworks with successful usage experience on big projects.<br><br>
           Couple of years ago I switched to pure BE Development to get a better understanding of all the internal development processes. In 6 months my proactiveness lead me to a Tech Lead position promotion.<br><br>
@@ -70,28 +43,22 @@ career-profile:
           Strong knowledge of software testing fundamentals, testing throughout the software life cycle, test design techniques, test management and tool support for testing.</div>'
 
 education:
-  - degree: MSc in System Analysis and Management
-    university: National Technical University "Kharkiv Polytechnic Institute"
-    time: 2004 - 2010
+  - degree: Bachelor of Science in Software Engineering
+    university: University of Science
+    time: 2013 - 2017
     details: |
       For these 6 years we covered: 5 programming languages, 7 mathematics, algorythms theory, optimization methods, system administration, etc.
 
 experiences:
-  - role: Technical QA Manager, Software Engineer / Tech Lead
-    time: Nov 2016 – Present
-    company: Waverley Software, Kharkiv
-  - role: Senior Test Automation Engineer / Lead
-    time: Jan 2013 - Oct 2016
-    company: GlobalLogic, Kharkiv
-  - role: Manual Test Lead
-    time: Aug 2012 - Jan 2013
-    company: Zfort Group, Kharkiv
-  - role: Middle / Senior Manual Test Engineer
-    time: Sep 2011 - Aug 2012
-    company: TeamDev Ltd, Kharkiv
-  - role: Junior/ Middle Manual Test Engineer
-    time: Sep 2009 - Sep 2011
-    company: Altron, Kharkiv
+  - role: Experience/ Senior Manual Test Engineer
+    time: Mar 2018 – Present
+    company: Ekino Viet Nam
+  - role: Junior Manual Test Engineer
+    time: Mar 2017 - Mar 2018
+    company: Viettel Group
+  - role: Developer Intern 
+    time: Jun 2016 - Aug 2016
+    company: Fujinet Systems JSC
 
 projects:
   title: Projects
@@ -189,69 +156,6 @@ projects:
     - title: Arduino Sensors Wrappers
       link: "https://github.com/sskorol/arduino-sensors-wrappers"
       tagline: "A small library which allows quick prototyping for Arduino-like controllers in OO-manner."
-
-skills:
-  title: Skills &amp; Proficiency
-  toolset:
-    - name: Software Testing / Quality Assurance
-      level: 90%
-
-    - name: Test Automation
-      level: 90%
-
-    - name: Development
-      level: 70%
-
-    - name: Selenium / TestnNG / Allure
-      level: 95%
-
-    - name: Mocha / Chai / WebDriverIO
-      level: 90%
-
-    - name: Appium
-      level: 70%
-
-    - name: JMeter / Gatling
-      level: 50%
-
-    - name: Java / OOP / Design Patterns
-      level: 85%
-
-    - name: Javascript / Typescript
-      level: 70%
-
-    - name: Spring Boot
-      level: 50%
-
-    - name: NestJS / TypeORM
-      level: 75%
-
-    - name: ReactJS / MobX
-      level: 40%
-
-    - name: Python / Flask
-      level: 35%
-
-    - name: Gradle / Maven / NPM / Yarn
-      level: 90%
-
-    - name: SQL / NoSQL DB
-      level: 70%
-
-    - name: Git
-      level: 90%
-
-    - name: Jenkins
-      level: 90%
-
-    - name: Docker
-      level: 75%
-
-    - name: AWS / Google services
-      level: 65%
-
-    - name: IoT
-      level: 50%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

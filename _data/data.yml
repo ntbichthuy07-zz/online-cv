@@ -30,32 +30,25 @@ career-profile:
   title: Career Profile
   summary:
     '<div><ul>
-            <li>About 3 years experience in Manual Software Testing.</li>
-            <li>Strong knowledge: Java/TS, Selenium WebDriver/Grid, Selenoid, Appium, SikuliX, WebdriverIO, TestNG/Mocha, Allure, RestAssured, Jenkins, Git, Docker, REST, SQL, Google Cloud.</li>
-            <li>Experience in creating test automation frameworks / raising up automation infrastructure from scratch.</li>
-            <li>Certifications: <a href="https://www.coursera.org/account/accomplishments/professional-cert/J35RUADXFBFQ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharebutton_course&utm_product=prof"><b>Cloud Engineering with Google Cloud</b></a>, ISTQB.</li>
-
-          <div>I started career as a Manual Test Engineer. Have passed a long way from Junior up to Test Lead position. Have 6+ years experience in a management of test teams up to 5 members for projects of different complexity. Since 2012 till 2018 have been fully concentrated on Software Test Automation (mostly web direction). Developed several Selenium-driven frameworks with successful usage experience on big projects.<br><br>
-          Couple of years ago I switched to pure BE Development to get a better understanding of all the internal development processes. In 6 months my proactiveness lead me to a Tech Lead position promotion.<br><br>
-          Consulting and mentoring automation engineers within local / customers teams and via external consulting services. Providing internal Test Automation trainings. Continuously improving skills in Java / TS and latest test automation trends. Tech talks / conferences speaker.<br><br>
-          Participating in company pre-sales and projects audits.<br><br>
-          Strong experience in testing of large scale, highly available / specific private B2C / B2B applications including Internet shops, jobs / health & care sites, cloud payment solutions, financial and secret government applications, voice assistants/chatbots, etc.<br><br>
-          Strong knowledge of software testing fundamentals, testing throughout the software life cycle, test design techniques, test management and tool support for testing.</div>'
+            <li>About 3+ years experience in Manual Software Testing.</li>
+            <li>Comprehension the Quality Control activities in the Software Development Life Cycle of Agile.</li>
+            <li>Basically Automation Testing skill.</li>
+</ul></div>'
 
 education:
   - degree: Bachelor of Science in Software Engineering
     university: University of Science
     time: 2013 - 2017
-    details: |
-      For these 6 years we covered: 5 programming languages, 7 mathematics, algorythms theory, optimization methods, system administration, etc.
-
+    
 experiences:
   - role: Experience/ Senior Manual Test Engineer
     time: Mar 2018 – Present
     company: Ekino Viet Nam
+    
   - role: Junior Manual Test Engineer
     time: Mar 2017 - Mar 2018
     company: Viettel Group
+    
   - role: Developer Intern 
     time: Jun 2016 - Aug 2016
     company: Fujinet Systems JSC
@@ -63,99 +56,39 @@ experiences:
 projects:
   title: Projects
   intro: >
-    Here you can find a list of open source and commercial projects I've been working on for the past 5 years. Please note that commercial projects names are not real due to NDA.
+    Here you can my experiences I've been working on for the past 3 years.
 
   assignments:
-    - title: Smart Assistant
+    - title: Mobile application project
       link: "#"
-      tagline: 'Voice assistant / chatbot, managed by different Google services.
-                  <div><br><u>Role</u>: Backend Developer, Tech Lead.</div>
+      tagline: 'Deliver messages based on schedules/locations, managed by Amazon Web Services.
+                  <div><br><u>Role</u>: QC.</div>
                   <div><u>Stack</u>:</div>
                   <div><ul>
-                    <li>BE: Typescript, NestJS/Typeorm, Jest, Python, Flask, ML (numpy, scikit-learn, NLTK, FastText, Annoy)</li>
-                    <li>FE: ReactJS, MobX, Jest</li>
-                    <li>Google Cloud: STT/TTS, SQL Cloud, Datastore, Kubernetes Engine</li>
-                    <li>Test Automation: Mocha, Chai, WebdriverIO, AllureJS, Selenoid, Docker</li>
-                    <li>CI/CD: GitHub + Azure Pipelines</li></ul></div>'
+                    <li>BE: NodeJS, GraphQL</li>
+                    <li>Mobile: Android and iOS developement, App/Play Store Payment</li>
+                    <li>AWS: MongoDB, Lamda, Cognito, SES, EC2...</li>
+                    <li>CI/CD: Git</li></ul></div>'
 
-    - title: HyperDynamic (HD) platform
+    - title: A4M Web application
       link: "#"
-      tagline: 'HD platform presents NVM Express (NVMe) storage to compute nodes over high-speed storage fabrics.
-                HD software can virtualize hundreds of NVM drives and present them as a single volume—similar to a high performance storage array,
-                or it can map an individual compute node to an individual drive—similar to a direct-storage access system.
-                  <div><br><u>Role</u>: Lead Test Automation Engineer.</div>
+      tagline: 'Build an online quotation system to repair vehicles for Italians and Spaniards.
+                  <div><br><u>Role</u>: QC.</div>
                   <div><u>Stack</u>:</div>
                   <div><ul>
-                    <li>Javascript, Mocha, Chai, WebdriverIO, AllureJS, Selenoid, Docker</li>
-                    <li>AWS Cloud: EC2</li>
-                    <li>CI/CD: GitHub, Jenkins</li></ul></div>'
+                    <li>BE: Java, REST API, Drupal 8, PostgreSQL, Kibana </li>
+                    <li>FE: HTML5, CSS, JavaScript, jQuery</li>
+                     <li>Google Services: Google Analytic</li>
+                    <li>CI/CD: Git</li></ul></div>'
 
-    - title: Trading platform
+    - title: Scada One, Recloser One 
       link: "#"
-      tagline: 'One of the world’s largest options exchange & the leader in product innovation, options education & trading volume.
-                  <div><br><u>Role</u>: Lead Test Automation Engineer.</div>
+      tagline: 'Platforms to manage and control electric switchgear and transformers
+                  <div><br><u>Role</u>: QC</div>
                   <div><u>Stack</u>:</div>
                   <div><ul>
-                    <li>Java, Gradle, TestNG, Allure, RestAssured, Selenoid, Docker</li>
-                    <li>CI/CD: Bitbucket, Jenkins</li></ul></div>'
-
-    - title: Digital Commerce platform
-      link: "#"
-      tagline: 'Real-time, transactional system designed to more efficiently
-                  support the growing volume and complexity of services that
-                  require real-time processing. It combines extremely efficient,
-                  transactional event processing with a highly flexible pricing,
-                  rating, policy, and aggregation engine. It performs transactional
-                  rating and charging for communications and media products and
-                  services, policy decision making based on traffic-type criteria,
-                  and event aggregation for usage analysis.
-                  <div><br><u>Role</u>: Lead Test Automation Engineer.</div>
-                  <div><u>Stack</u>:</div>
-                  <div><ul>
-                    <li>Java, Maven, Appium, Selenium Grid, TestNG, Allure, RestAssured</li>
-                    <li>CI/CD: GitHub, Jenkins</li></ul></div>'
-
-    - title: Global Payments platform
-      link: "#"
-      tagline: 'Highly scalable, multi-tenanted EMEA Global Payments platform
-                  capable of being hosted which will allows the Client to deliver
-                  payments solutions. The project has 2 identified phases with the
-                  initial focus on EMEA Payments requirements for a ‘cloud’
-                  option for the Client’s customer base (approx. 10k customers with
-                  multiple users). First phase includes BACS payments and Admin
-                  features for PT-X. Second phase scope includes Direct Debit
-                  Management system.
-                  <div><br><u>Role</u>: Senior/Lead Test Automation Engineer.</div>
-                  <div><u>Stack</u>:</div>
-                  <div><ul>
-                    <li>Java/Scala, Maven, Selenium WebDriver/Grid, TestNG, Allure, SikuliX, Gatling</li>
-                    <li>CI/CD: Bitbucket, Jenkins</li></ul></div>'
-
-    - title: Health &amp; Care platform
-      link: "#"
-      tagline: 'Complex solution for patients caregivers and
-                  therapists. System components are supposed to provide up-to-date
-                  information about state of a patient, history of treatment and
-                  reports via PC based interface, mobile devices. Automation test
-                  framework is developed for UI part of the system.
-                  <div><br><u>Role</u>: Senior Test Automation Engineer.</div>
-                  <div><u>Stack</u>: Java, Maven, TestNG, SikuliX</div>'
-
-    - title: Test Data Supplier
-      link: "https://github.com/sskorol/test-data-supplier"
-      tagline: "Extended TestNG DataProvider."
-
-    - title: TS Test Decorators
-      link: "https://github.com/sskorol/ts-test-decorators"
-      tagline: "A small library which allows writing TS tests in OO-manner via decorators."
-
-    - title: Test Automation Playground
-      link: "https://github.com/sskorol/test-automation-playground"
-      tagline: "ReactJS application with Spring Boot / MySQL backend created for practicing automation skills."
-
-    - title: Arduino Sensors Wrappers
-      link: "https://github.com/sskorol/arduino-sensors-wrappers"
-      tagline: "A small library which allows quick prototyping for Arduino-like controllers in OO-manner."
+                    <li>Java, Oracle SQL, Postman, Linux console </li>
+                    <li>CI/CD: Bitbucket </li></ul></div>'
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
